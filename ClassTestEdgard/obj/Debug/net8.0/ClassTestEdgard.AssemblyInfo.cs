@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClassTestEdgard")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c162f1bd6c1736d015c9a32f0b356fb065abb252")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClassTestEdgard")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClassTestEdgard")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

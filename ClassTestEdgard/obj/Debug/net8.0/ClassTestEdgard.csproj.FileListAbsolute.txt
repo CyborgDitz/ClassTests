@@ -12,3 +12,4 @@ C:\Projects\ClassTests\ClassTestEdgard\obj\Debug\net8.0\refint\ClassTestEdgard.d
 C:\Projects\ClassTests\ClassTestEdgard\obj\Debug\net8.0\ClassTestEdgard.pdb
 C:\Projects\ClassTests\ClassTestEdgard\obj\Debug\net8.0\ClassTestEdgard.genruntimeconfig.cache
 C:\Projects\ClassTests\ClassTestEdgard\obj\Debug\net8.0\ref\ClassTestEdgard.dll
+C:\Projects\ClassTests\ClassTestEdgard\obj\Debug\net8.0\ClassTestEdgard.sourcelink.json
