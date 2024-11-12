@@ -1,0 +1,14 @@
+C:\Projects\ClassTests\ClassTestEdgard\obj\Debug\net8.0\ClassTestEdgard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ClassTests\ClassTestEdgard\obj\Debug\net8.0\ClassTestEdgard.AssemblyInfoInputs.cache
+C:\Projects\ClassTests\ClassTestEdgard\obj\Debug\net8.0\ClassTestEdgard.AssemblyInfo.cs
+C:\Projects\ClassTests\ClassTestEdgard\obj\Debug\net8.0\ClassTestEdgard.csproj.CoreCompileInputs.cache
+C:\Projects\ClassTests\ClassTestEdgard\bin\Debug\net8.0\ClassTestEdgard.exe
+C:\Projects\ClassTests\ClassTestEdgard\bin\Debug\net8.0\ClassTestEdgard.deps.json
+C:\Projects\ClassTests\ClassTestEdgard\bin\Debug\net8.0\ClassTestEdgard.runtimeconfig.json
+C:\Projects\ClassTests\ClassTestEdgard\bin\Debug\net8.0\ClassTestEdgard.dll
+C:\Projects\ClassTests\ClassTestEdgard\bin\Debug\net8.0\ClassTestEdgard.pdb
+C:\Projects\ClassTests\ClassTestEdgard\obj\Debug\net8.0\ClassTestEdgard.dll
+C:\Projects\ClassTests\ClassTestEdgard\obj\Debug\net8.0\refint\ClassTestEdgard.dll
+C:\Projects\ClassTests\ClassTestEdgard\obj\Debug\net8.0\ClassTestEdgard.pdb
+C:\Projects\ClassTests\ClassTestEdgard\obj\Debug\net8.0\ClassTestEdgard.genruntimeconfig.cache
+C:\Projects\ClassTests\ClassTestEdgard\obj\Debug\net8.0\ref\ClassTestEdgard.dll
